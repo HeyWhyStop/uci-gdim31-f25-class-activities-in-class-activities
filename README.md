@@ -10,17 +10,19 @@ Hello world. this is my first gmae yesesy
 
 
 
-\### activity 1
+### activity 1
 
 our group tried to find games we had in common, but it just devolved into henri giving game recommendations from her frankly enormous steam library
 
 
 
-\### activity 2
+### activity 2
 
-\#### 1. moving the camera off of the cat makes unlinks it from the cat GameObject, so moving the cat does not move the camera. thus, the camera becomes stationary, while the cat continues to move according to the player's input. 
+#### 
+1. moving the camera off of the cat makes unlinks it from the cat GameObject, so moving the cat does not move the camera. thus, the camera becomes stationary, while the cat continues to move according to the player's input. 
 
-\#### 2. itch link: 
+#### 
+2. itch link: 
 
 
 
